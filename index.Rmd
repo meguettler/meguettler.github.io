@@ -1,0 +1,82 @@
+---
+title: "Madeleine Guettler"
+image: "maddy.png"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/madeleine-guettler-339909174/"
+  - label: GitHub
+    url: "https://github.com/meguettler"
+  - label: Email
+    url: "mailto:madeleine.guettler@gmail.com"
+  - label: Resume
+    url: "Resume.pdf"
+output:
+  postcards::trestles
+---
+
+## Bio
+
+I am a student at Simmons University studying data science and social work. I am passionate about using machine learning concepts for real world applications. My ultimate goal is to use AI as a way to close inequality gaps.
+
+## Education
+
+**Simmons University** \| Boston, MA
+
+B.S. in Data Science \| February 2021 - May 2024
+
+Minor in Social Work \| February 2021 - May 2024
+
+**Newton South High School** \| Newton, MA
+
+High School Diploma \| September 2015 - June 2018
+
+## Research Experience
+
+**BU-MIT-Simmons Prosody Lab** \| Research Assistant \| January 2023 - Present
+
+-   Annotate speech data in accordance to advanced PoLaR labeling guidelines
+
+-   Actively involved in preparation of data for statistical analysis
+
+-   Implement different machine learning algorithms such as k-means or random forests to find optimal algorithm for incoming data using Rstudio.
+
+## Data and Tech Experience
+
+**Simmons University** \| Learning Assistant \| Boston, MA \| Fall 2022-January 2024
+
+-   Engaged in helping students understand statistics and programming concepts during labs and in study groups
+
+-   Met regularly with professors and OAS staff to discuss how to best support students
+
+**MGH Center for Systems Biology Research Informatics Core** \| Web Intern \| Boston, MA \| Spring 2019-Spring 2021
+
+-   Helped design/create websites for organizations within Mass General Brigham and outside clients meant to help with better data management
+
+-   Developed key communication, teamwork , and time management skills through consistently working closely with clients and colleagues
+
+## Leadership Experience
+
+**Hope Gain Center of West Michigan** \| New Program Committee Member \| Grand Rapids, MI \| March 2021-April 2022
+
+-   Created support programs for individuals struggling with mental health
+
+-   Gave seminars, did research, and helped in the key implementation steps necessary for creating and running programs
+
+## Projects, Tutorials, and Research Posters
+
+1. [**Is there a relationship between global self esteem and BMI?**](Final_Project_Submission copy.html) | May 2021
+
+2.  [**The Endless Best/Worst Drivers Debate**](Project1%20copy.html) | February 2022
+
+3. [**Exploration of Identifying Biopsy Scans and Possibly Expanding Healthcare Access**](project4 copy.html) | May 2022
+
+4. [**Machine Learning in Prosody and Meaning Poster**](Prosody Poster Outline.pdf) | April 2023 
+
+5. [**Chi-Square Exploration/Tutorial**](Final_Project_AnswerKey.html) | December 2023
+
+## Coming Soon Projects 
+**Maternal Health Risk Prediction**
+
+**Covid-19 Time Series Exploration**
+
+
