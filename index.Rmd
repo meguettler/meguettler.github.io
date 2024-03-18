@@ -72,7 +72,7 @@ High School Diploma \| September 2015 - June 2018
 
 4. [**Machine Learning in Prosody and Meaning Poster**](Prosody Poster Outline.pdf) | April 2023 
 
-5. [**Covid Confirmation Time Series Exploration**]Covid_Final_Project.html) | April 2023
+5. [**Covid Confirmation Time Series Exploration**](Covid_Final_Project.html) | April 2023
 
 6. [**Chi-Square Exploration/Tutorial**](Final_Project_AnswerKey.html) | December 2023
 
