@@ -66,15 +66,17 @@ High School Diploma \| September 2015 - June 2018
 
 1. [**Is there a relationship between global self esteem and BMI?**](Final_Project_Submission copy.html) | May 2021
 
-2.  [**The Endless Best/Worst Drivers Debate**](Project1%20copy.html) | February 2022
+2. [**Mental Health Chatbot Team Presentation**](MentalHealth_chatbot_presentation.pdf) |December 2021
 
-3. [**Exploration of Identifying Biopsy Scans and Possibly Expanding Healthcare Access**](project4 copy.html) | May 2022
+3.  [**The Endless Best/Worst Drivers Debate**](Project1%20copy.html) | February 2022
 
-4. [**Machine Learning in Prosody and Meaning Poster**](Prosody Poster Outline.pdf) | April 2023 
+4. [**Exploration of Identifying Biopsy Scans and Possibly Expanding Healthcare Access**](project4 copy.html) | May 2022
 
-5. [**Covid Confirmation Time Series Exploration**](Covid_Final_Project.html) | April 2023
+5. [**Machine Learning in Prosody and Meaning Poster**](Prosody Poster Outline.pdf) | April 2023 
 
-6. [**Chi-Square Exploration/Tutorial**](Final_Project_AnswerKey.html) | December 2023
+6. [**Covid Confirmation Time Series Exploration**](Covid_Final_Project.html) | April 2023
+
+7. [**Chi-Square Exploration/Tutorial**](Final_Project_AnswerKey.html) | December 2023
 
 ## Coming Soon Projects 
 **Maternal Health Risk Prediction**
