@@ -10,6 +10,8 @@ links:
     url: "mailto:madeleine.guettler@gmail.com"
   - label: Resume
     url: "Resume.pdf"
+  - label: CV
+    url: "CV-Data_Science.pdf"
 output:
   postcards::trestles
 ---
