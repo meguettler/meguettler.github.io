@@ -11,20 +11,20 @@ links:
   - label: Resume
     url: "Resume.pdf"
   - label: CV
-    url: "CV-Data_Science.pdf"
+    url: "CV.pdf"
 output:
   postcards::trestles
 ---
 
 ## Bio
 
-I am a student at Simmons University studying data science and social work. I am passionate about using machine learning concepts for real world applications. My ultimate goal is to use new advances in Machine Learning and AI as a way to close inequality gaps.
+I am a recent graduate from Simmons University with a Bachelor of Science in Data Science and Analytics and a minor in social work. I am passionate about using machine learning concepts for real world applications. My ultimate goal is to use new advances in Machine Learning and AI as a way to close inequality gaps.
 
 ## Education
 
 **Simmons University** \| Boston, MA
 
-B.S. in Data Science \| February 2021 - May 2024
+B.S. in Data Science and Analytics \| February 2021 - May 2024
 
 Minor in Social Work \| February 2021 - May 2024
 
@@ -83,6 +83,10 @@ High School Diploma \| September 2015 - June 2018
 ## Coming Soon Projects 
 **Maternal Health Risk Prediction**
 
+## Research Papers
+1. [**The Ongoing Widespan Inequalities in Healthcare and between Racial Groups**](Inequality in Health Care (6).pdf) | February 2022
 
+2. [**The Ongoing Correlation Between Inequality and Sustainability**](Inequality and Sustainability Essay (4).pdf) | March 2022
 
+3. [**A Start to Highlighting Inequality and Creating Equal Growth**](Final Essay (1).pdf) | May 2022
 
