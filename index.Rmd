@@ -80,6 +80,8 @@ High School Diploma \| September 2015 - June 2018
 
 7. [**Chi-Square Exploration/Tutorial**](Final_Project_AnswerKey.html) | December 2023
 
+8. [**Navigating the Iterative Process between Machine Learning and Linguist Research**](NEW COPY CCSNE ML Poster Outline (1).pdf) | April 2024
+
 ## Coming Soon Projects 
 **Maternal Health Risk Prediction**
 
